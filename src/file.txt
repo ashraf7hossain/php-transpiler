@@ -1,0 +1,8 @@
+{{
+    var1 = 199;
+    var2 = 300;
+    varstr = "string valued  = variable";
+    if(var1 == 200){
+        echo var1."is 200<br>";
+    }
+}}
