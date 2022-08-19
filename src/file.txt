@@ -1,8 +1,16 @@
 {{
     var1 = 199;
     var2 = 300;
-    varstr = "string valued  = variable";
+    "var3" = "third variable";
+    varstr = "string valued  = variable this is also public variable";
     if(var1 == 200){
         echo var1."is 200<br>";
     }
+    name = 235;
+    array(
+        "name" => "Ashraf"
+    );
+    public variable;
+    private var;
+    protected vaar;
 }}
